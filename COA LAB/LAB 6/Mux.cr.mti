@@ -1,0 +1,15 @@
+{D:/5th Semester Data/COA LAB/LAB 6/mux.v} {1 {vlog -work work -stats=none {D:/5th Semester Data/COA LAB/LAB 6/mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2x1
+
+Top level modules:
+	mux2x1
+
+} {} {}} {D:/5th Semester Data/COA LAB/LAB 6/Tb.v} {1 {vlog -work work -stats=none {D:/5th Semester Data/COA LAB/LAB 6/Tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Tb
+
+Top level modules:
+	Tb
+
+} {} {}}

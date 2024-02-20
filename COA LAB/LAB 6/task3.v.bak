@@ -1,0 +1,19 @@
+
+module custom_mux (
+  input A,
+  input B,
+  input [1:0] sel,
+  output reg out
+);
+
+  always @* begin
+    case (sel)
+      2'b00: out = A;         // If sel is 00, output A
+      2'b01: out = B;         // If sel is 01, output B
+      2'b10: out = A + B;     // If sel is 10, output A + B
+      2'b11: out = A - B;     // If sel is 11, output A - B
+      default: out = 0;       // Default case (optional)
+    endcase
+  end
+
+endmodule

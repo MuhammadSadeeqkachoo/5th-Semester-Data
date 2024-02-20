@@ -1,0 +1,425 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop
+vaccumulator
+Z0 !s110 1706632364
+!i10b 1
+!s100 SRahE6YQE;Eg`;;aC^m7=0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIBQ1n5;o`4i15zL6:699@2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/5th Semester Data/COA LAB/LAB 10/Counter
+Z4 w1592304700
+Z5 8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/accumulator.v
+Z6 FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/accumulator.v
+!i122 57
+L0 14 28
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1706632364.000000
+Z9 !s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/accumulator.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/accumulator.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 Ti@<K1O6i0586Ozn:YSMJ1
+R1
+Ij6_XQzIOo8giIe:VbZecC2
+R2
+R3
+R4
+Z13 8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/alu.v
+Z14 FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/alu.v
+!i122 58
+L0 13 25
+R7
+r1
+!s85 0
+31
+R8
+Z15 !s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/alu.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/alu.v|
+!i113 1
+R11
+R12
+vb_register
+R0
+!i10b 1
+!s100 QR9^a=VkFlTzhKWoa_oUY2
+R1
+IfPHd^>KiB4f0^Ne86f3_a0
+R2
+R3
+R4
+8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/b_register.v
+FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/b_register.v
+!i122 59
+Z17 L0 12 23
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/b_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/b_register.v|
+!i113 1
+R11
+R12
+vcontroller
+R0
+!i10b 1
+!s100 I2M4igYE@XMd?>8Y^TA113
+R1
+I1=>G0Ene[e2mJE@BhB1f>1
+R2
+R3
+R4
+Z18 8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/controller.v
+Z19 FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/controller.v
+!i122 60
+L0 23 172
+R7
+r1
+!s85 0
+31
+R8
+Z20 !s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/controller.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/controller.v|
+!i113 1
+R11
+R12
+vcounter
+Z22 !s110 1703567618
+!i10b 1
+!s100 ]O7`Hna5<nUO[:<Y;RlJ_1
+R1
+I91Ge`TJ2m2JIgHG?@BiDi3
+R2
+R3
+w1703567534
+8D:/5th Semester Data/COA LAB/LAB 10/Counter/count8bit.v
+FD:/5th Semester Data/COA LAB/LAB 10/Counter/count8bit.v
+!i122 55
+L0 1 18
+R7
+r1
+!s85 0
+31
+Z23 !s108 1703567618.000000
+!s107 D:/5th Semester Data/COA LAB/LAB 10/Counter/count8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th Semester Data/COA LAB/LAB 10/Counter/count8bit.v|
+!i113 1
+R11
+R12
+vinstruction_register
+R0
+!i10b 1
+!s100 1J`2W0IDZ_GfYd2ZIk4bJ3
+R1
+I3L7nfPXH<:mz1[Y=k<d3l3
+R2
+R3
+R4
+Z24 8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/instruction_register.v
+Z25 FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/instruction_register.v
+!i122 61
+L0 17 46
+R7
+r1
+!s85 0
+31
+R8
+Z26 !s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/instruction_register.v|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/instruction_register.v|
+!i113 1
+R11
+R12
+vmar
+R0
+!i10b 1
+!s100 8n4?^4afV8dRo]l3ffO[l0
+R1
+IPToCm>jz31aDk72C]FCU`3
+R2
+R3
+R4
+8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/mar.v
+FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/mar.v
+!i122 62
+L0 13 20
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/mar.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/mar.v|
+!i113 1
+R11
+R12
+vout_register
+R0
+!i10b 1
+!s100 ]XTXaD:aSE1^;kJ4BZP@W2
+R1
+I7Ifi4Fli28n3k]k?]LP8e0
+R2
+R3
+R4
+8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/out_register.v
+FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/out_register.v
+!i122 63
+R17
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/out_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/out_register.v|
+!i113 1
+R11
+R12
+vpc
+R0
+!i10b 1
+!s100 AUPCzaeP8BXaTbG6L7h393
+R1
+I>oLedZPd^TKWLcR3SU[`_0
+R2
+R3
+R4
+8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/pc.v
+FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/pc.v
+!i122 64
+L0 13 28
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/pc.v|
+!i113 1
+R11
+R12
+vram
+R0
+!i10b 1
+!s100 <EYRV>MFLMI4:1h;a4>f42
+R1
+I`m0T8ALY`8z?8PZ6@N[>n0
+R2
+R3
+R4
+8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ram.v
+FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ram.v
+!i122 65
+L0 12 39
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ram.v|
+!i113 1
+R11
+R12
+vring_counter
+R0
+!i10b 1
+!s100 zFC<kM_U4zbd@O3C>HX>92
+R1
+IljSZ@Zhd1oV?aXEco;Ka12
+R2
+R3
+R4
+8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ring_counter.v
+FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ring_counter.v
+!i122 66
+L0 12 34
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ring_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ring_counter.v|
+!i113 1
+R11
+R12
+vt_accumulator
+R0
+!i10b 1
+!s100 Fa]leJMCk4NahTK;^>hXb2
+R1
+ID;WLG8cOF5X0T_;i^IYU_1
+R2
+R3
+R4
+R5
+R6
+!i122 57
+L0 43 27
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vt_alu
+R0
+!i10b 1
+!s100 dgWdc[KmI9E33<7lj858b2
+R1
+Il^zkD7=R0TM[bbjBg[z2a1
+R2
+R3
+R4
+R13
+R14
+!i122 58
+L0 39 27
+R7
+r1
+!s85 0
+31
+R8
+R15
+R16
+!i113 1
+R11
+R12
+vt_controller
+R0
+!i10b 1
+!s100 zVPOamZz;Ueh_6MSOQ^Ea2
+R1
+IQP@8ZPeQgOjlE<oYV0jDX1
+R2
+R3
+R4
+R18
+R19
+!i122 60
+L0 196 70
+R7
+r1
+!s85 0
+31
+R8
+R20
+R21
+!i113 1
+R11
+R12
+vt_instruction_register
+R0
+!i10b 1
+!s100 TZS[F<8]C=mQ`mFBRgQIO0
+R1
+I2Qg7TiMgZA]?TnOgG;31f1
+R2
+R3
+R4
+R24
+R25
+!i122 61
+L0 64 32
+R7
+r1
+!s85 0
+31
+R8
+R26
+R27
+!i113 1
+R11
+R12
+vt_top
+R0
+!i10b 1
+!s100 7_><mlo2m9Ha4zYNMFYSN3
+R1
+ILfM[:R>N^anAeGG9W[>ce1
+R2
+R3
+R4
+Z28 8C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v
+Z29 FC:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v
+!i122 67
+L0 54 19
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v|
+Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v|
+!i113 1
+R11
+R12
+vtb
+R22
+!i10b 1
+!s100 i5jWQfXWNeE_LVOSbP<ZR1
+R1
+I25NG4XCRz8[EUY[4[7Xoz2
+R2
+R3
+w1703567605
+8D:/5th Semester Data/COA LAB/LAB 10/Counter/tb_8bit_counter.v
+FD:/5th Semester Data/COA LAB/LAB 10/Counter/tb_8bit_counter.v
+!i122 56
+L0 1 20
+R7
+r1
+!s85 0
+31
+R23
+!s107 D:/5th Semester Data/COA LAB/LAB 10/Counter/tb_8bit_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th Semester Data/COA LAB/LAB 10/Counter/tb_8bit_counter.v|
+!i113 1
+R11
+R12
+vtop
+R0
+!i10b 1
+!s100 _k[VhLUC0VMjahTe9m[7h0
+R1
+ID:gR[15i8KdYGe1AzXcO=3
+R2
+R3
+R4
+R28
+R29
+!i122 67
+L0 11 42
+R7
+r1
+!s85 0
+31
+R8
+Z31 !s107 C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v|
+R30
+!i113 1
+R11
+R12

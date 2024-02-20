@@ -1,0 +1,39 @@
+`timescale 1ns/1ns
+
+module Decoder3x8_tb;
+
+  // Inputs
+  reg [2:0] in;
+  
+  // Outputs
+  wire [7:0] out;
+
+  // Instantiate the Decoder module
+  Decoder3x8 uut (
+    .in(in),
+    .out(out)
+  );
+
+  // Stimulus generation
+  initial begin
+    $display("Input\tOutput");
+    $monitor("%b\t%b", in, out);
+
+    // Test case 1
+    in = 3'b000;
+    #10;
+    // Expected output: out = 8'b00000001
+
+    // Test case 2
+    in = 3'b110;
+    #10;
+    // Expected output: out = 8'b10000000
+
+    // Add more test cases as needed
+
+    // Finish simulation
+    $finish;
+  end
+
+endmodule
+

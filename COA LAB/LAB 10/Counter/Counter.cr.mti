@@ -1,0 +1,83 @@
+{C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+-- Compiling module t_top
+
+Top level modules:
+	t_top
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ring_counter.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ring_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ring_counter
+
+Top level modules:
+	ring_counter
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/pc.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/pc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ram.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/out_register.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/out_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module out_register
+
+Top level modules:
+	out_register
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/mar.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/mar.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mar
+
+Top level modules:
+	mar
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/controller.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+-- Compiling module t_controller
+
+Top level modules:
+	t_controller
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/accumulator.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/accumulator.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module accumulator
+-- Compiling module t_accumulator
+
+Top level modules:
+	t_accumulator
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/instruction_register.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/instruction_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instruction_register
+-- Compiling module t_instruction_register
+
+Top level modules:
+	t_instruction_register
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/b_register.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/b_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module b_register
+
+Top level modules:
+	b_register
+
+} {} {}} {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/alu.v} {1 {vlog -work work -stats=none {C:/Users/MUHAMMAD SADEEQ/Downloads/SAP-I-Verilog-Implementation-master-master/SAP-I-Verilog-Implementation-master-master/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+-- Compiling module t_alu
+
+Top level modules:
+	t_alu
+
+} {} {}}

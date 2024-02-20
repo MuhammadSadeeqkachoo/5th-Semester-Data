@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/5th Semester Data/COA LAB/LAB 8
+vSR_Latch
+Z0 !s110 1702961171
+!i10b 1
+!s100 Yk]ca>6Nh1nLECV;6edje2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IS]RAQ<F:6JhZFHL:L_DQI0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop
+w1702961158
+8D:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/SR-latchs.v
+FD:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/SR-latchs.v
+!i122 14
+L0 1 10
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1702961171.000000
+!s107 D:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/SR-latchs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/SR-latchs.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@s@r_@latch
+vtb
+R0
+!i10b 1
+!s100 45f_QkAld?GZ55PTAKYaW2
+R1
+I=F9jUP?b>;>3G71mWg:?Q0
+R2
+R3
+w1702961096
+8D:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/tb.v
+FD:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/tb.v
+!i122 15
+L0 1 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/5th Semester Data/COA LAB/LAB 9/Latches and flipflop/tb.v|
+!i113 1
+R6
+R7
